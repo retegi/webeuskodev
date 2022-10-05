@@ -33,7 +33,7 @@ SECRET_KEY = SECRET_KEY = "get_secret('SECRET_KEY')"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','142.93.232.138','euskodev.eus','www.euskodev.eus']
+ALLOWED_HOSTS = ['localhost','142.93.232.138','euskodev.eus','www.euskodev.eus','*']
 
 
 # Application definition
